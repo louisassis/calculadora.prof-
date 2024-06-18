@@ -251,7 +251,6 @@ char *converterParaPrefixa(const char *expressao)
             empilharStr(&pilha, resultado);
             free(operando1);
             free(operando2);
-            printf(operando2, operando1, operando)
           
         }
 
